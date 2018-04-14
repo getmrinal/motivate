@@ -24,7 +24,7 @@ python3
 ### Linux/MacOS
 
 ```
-$ git clone https://github.com/mubaris/motivate.git
+$ git clone https://github.com/getmrinal/motivate.git
 $ cd motivate/motivate
 $ sudo ./install.sh
 $ source ~/.bashrc
@@ -34,7 +34,7 @@ zsh users should replace `.bashrc` with `.zshrc`.
 
 If you have no root priviledge, install in this way:
 ```
-$ git clone https://github.com/mubaris/motivate.git
+$ git clone https://github.com/getmrinal/motivate.git
 $ cd motivate
 $ ln -s $PWD/motivate/motivate.py moti
 $ ln -s $PWD/dummy.sh mmoti
@@ -49,14 +49,14 @@ After doing so, I found that python 2.x is enough to run this script.
 ### Windows
 
 * Make sure you have Python3 on your path.
-* Clone the repository `git clone https://github.com/mubaris/motivate.git`.
+* Clone the repository `git clone https://github.com/getmrinal/motivate.git`.
 * Add the path to your local clone to your system path.
 * Run `py -3 motivate.py` from the command prompt.
 
 ## Update Database
 
 ```
-$ git clone https://github.com/mubaris/motivate.git
+$ git clone https://github.com/getmrinal/motivate.git
 $ cd motivate
 $ ./UPDATE
 ```
